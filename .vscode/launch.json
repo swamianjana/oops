@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "oops_b5a6c5d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Employees",
+            "request": "launch",
+            "mainClass": "Employees",
+            "projectName": "oops_b5a6c5d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Employees",
+            "request": "launch",
+            "mainClass": "Employees",
+            "projectName": "oops_db6bd9c3"
+        },
+        {
+            "type": "java",
             "name": "Launch HelloWorld",
             "request": "launch",
             "mainClass": "HelloWorld",
