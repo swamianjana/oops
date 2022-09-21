@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Vowel",
+            "request": "launch",
+            "mainClass": "Vowel",
+            "projectName": "basic-java_7ba32158"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayLists",
+            "request": "launch",
+            "mainClass": "ArrayLists",
+            "projectName": "basic-java_7ba32158"
+        },
+        {
+            "type": "java",
+            "name": "Launch ColFramwork",
+            "request": "launch",
+            "mainClass": "ColFramwork",
+            "projectName": "basic-java_7ba32158"
+        },
+        {
+            "type": "java",
+            "name": "Launch BasicsOfLL",
+            "request": "launch",
+            "mainClass": "BasicsOfLL",
+            "projectName": "basic-java_7ba32158"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingleLinkedList",
+            "request": "launch",
+            "mainClass": "src.main.java.oops.concepts.SingleLinkedList",
+            "projectName": "basic-java_7ba32158"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedList",
+            "request": "launch",
+            "mainClass": "src.main.java.oops.concepts.LinkedList",
+            "projectName": "basic-java_7ba32158"
+        },
+        {
+            "type": "java",
+            "name": "Launch Linked",
+            "request": "launch",
+            "mainClass": "src.main.java.oops.concepts.Linked",
+            "projectName": "basic-java_7ba32158"
+        },
+        {
+            "type": "java",
+            "name": "Launch Employees",
+            "request": "launch",
+            "mainClass": "src.main.java.oops.concepts.Employees",
+            "projectName": "basic-java_7ba32158"
+        },
+        {
+            "type": "java",
+            "name": "Launch English",
+            "request": "launch",
+            "mainClass": "src.main.java.oops.concepts.English",
+            "projectName": "basic-java_7ba32158"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "src.main.java.oops.concepts.Main",
+            "projectName": "basic-java_7ba32158"
+        },
+        {
+            "type": "java",
+            "name": "Launch Employees",
+            "request": "launch",
+            "mainClass": "Employees",
+            "projectName": "basic-java_7ba32158"
+        },
+        {
+            "type": "java",
+            "name": "Launch English",
+            "request": "launch",
+            "mainClass": "English",
+            "projectName": "basic-java_7ba32158"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "Main",
